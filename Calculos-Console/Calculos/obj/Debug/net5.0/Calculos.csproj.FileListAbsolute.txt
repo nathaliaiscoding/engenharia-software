@@ -1,0 +1,15 @@
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/obj/Debug/net5.0/Calculos.csproj.AssemblyReference.cache
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/obj/Debug/net5.0/Calculos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/obj/Debug/net5.0/Calculos.AssemblyInfoInputs.cache
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/obj/Debug/net5.0/Calculos.AssemblyInfo.cs
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/obj/Debug/net5.0/Calculos.csproj.CoreCompileInputs.cache
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/bin/Debug/net5.0/Calculos.deps.json
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/bin/Debug/net5.0/Calculos.runtimeconfig.json
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/bin/Debug/net5.0/Calculos.runtimeconfig.dev.json
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/bin/Debug/net5.0/Calculos.dll
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/bin/Debug/net5.0/ref/Calculos.dll
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/bin/Debug/net5.0/Calculos.pdb
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/obj/Debug/net5.0/Calculos.dll
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/obj/Debug/net5.0/ref/Calculos.dll
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/obj/Debug/net5.0/Calculos.pdb
+/Users/NathaliaLaudano/Desktop/Projects/Calculos-Console/Calculos/obj/Debug/net5.0/Calculos.genruntimeconfig.cache
